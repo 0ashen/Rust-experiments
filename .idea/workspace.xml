@@ -2,13 +2,13 @@
 <project version="4">
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/variables/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/functions/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="guessing game done">
-      <change afterPath="$PROJECT_DIR$/bookmark.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/src/main.rs" afterDir="false" />
+    <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/functions/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/rust-experiments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-experiments.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/variables" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsD:/Projects/rust-experiments/guessing_game/src/main.rs" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1608418263005" duration="83000" />
       <workItem from="1608824206372" duration="84000" />
       <workItem from="1608859112116" duration="9661000" />
-      <workItem from="1608954732225" duration="9955000" />
+      <workItem from="1608954732225" duration="10626000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1608859146173</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608981467767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3.2">
+      <created>1609003309144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609003309144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +134,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="refactor" />
     <MESSAGE value="guessing game done" />
-    <option name="LAST_COMMIT_MESSAGE" value="guessing game done" />
+    <MESSAGE value="3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2" />
   </component>
 </project>
