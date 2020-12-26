@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/variables/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="">
+    <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="guessing game done">
+      <change afterPath="$PROJECT_DIR$/bookmark.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rust-experiments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-experiments.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/guessing_game/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,9 @@
     <option name="directoryName" value="6sknz7ju" />
   </component>
   <component name="ProjectId" id="1lTv1yKqIKqzReNGMuQng7yqfoA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -25,10 +35,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../About" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/variables" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsD:/Projects/rust-experiments/guessing_game/src/main.rs" value="true" />
@@ -39,6 +50,36 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\rust-experiments" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/variables" />
+      <option name="channel" value="DEFAULT" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -60,7 +101,7 @@
       <workItem from="1608418263005" duration="83000" />
       <workItem from="1608824206372" duration="84000" />
       <workItem from="1608859112116" duration="9661000" />
-      <workItem from="1608954732225" duration="6377000" />
+      <workItem from="1608954732225" duration="9955000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1608859146173</created>
@@ -69,14 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1608859146173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="guessing game done">
+      <created>1608981467767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608981467767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="guessing game done" />
+    <option name="LAST_COMMIT_MESSAGE" value="guessing game done" />
   </component>
 </project>
