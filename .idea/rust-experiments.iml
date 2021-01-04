@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/branches/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temperature_converter_from_fahrenheit_to_celsius/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
@@ -13,6 +14,7 @@
       <excludeFolder url="file://$MODULE_DIR$/functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/temperature_converter_from_fahrenheit_to_celsius/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

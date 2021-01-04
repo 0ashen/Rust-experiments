@@ -1,0 +1,9 @@
+[package]
+name = "temperature_converter_from_fahrenheit_to_celsius"
+version = "0.1.0"
+authors = ["'0ashen' <'iusfilipp@gmail.com'>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
