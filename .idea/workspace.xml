@@ -3,11 +3,18 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/variables/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/functions/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/branches/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/loops/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/branches/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rust-experiments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-experiments.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/functions/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/branches/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/branches/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/loops/Cargo.toml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsD:/Projects/rust-experiments/guessing_game/src/main.rs" value="true" />
@@ -51,7 +58,7 @@
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
       <option name="command" value="run" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/variables" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/branches" />
       <option name="channel" value="DEFAULT" />
       <option name="allFeatures" value="false" />
       <option name="emulateTerminal" value="false" />
@@ -104,7 +111,7 @@
       <workItem from="1609133911748" duration="64000" />
       <workItem from="1609133989923" duration="45000" />
       <workItem from="1609703939096" duration="1354000" />
-      <workItem from="1609746473407" duration="593000" />
+      <workItem from="1609746473407" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1608859146173</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609004783047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="done functions">
+      <created>1609747317672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609747317672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +172,7 @@
     <MESSAGE value="guessing game done" />
     <MESSAGE value="3.2" />
     <MESSAGE value="cargo add new project for learning functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="cargo add new project for learning functions" />
+    <MESSAGE value="done functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="done functions" />
   </component>
 </project>
