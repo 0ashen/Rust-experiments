@@ -2,49 +2,16 @@
 <project version="4">
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/8.fibonacci_number_generator/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/9.owership/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ea5f1f5-e707-4060-ba8e-fba25c3bc9c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8.fibonacci_number_generator/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.fibonacci_number_generator/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.fibonacci_number_generator/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.owership/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.owership/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.owership/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/rust-experiments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust-experiments.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/5.branches/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/5.branches/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/5.branches/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/.idea/guessing_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/.idea/guessing_game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessing_game/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.guessing_game/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.idea/hello-world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/cd" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/cd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/main.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/main.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/1.hello-world/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/6.loops/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/6.loops/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/6.loops/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature_converter_from_fahrenheit_to_celsius/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature_converter_from_fahrenheit_to_celsius/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature_converter_from_fahrenheit_to_celsius/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/3.variables/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/3.variables/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/3.variables/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmark.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +40,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8.fibonacci_number_generator/Cargo.toml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/9.owership" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsD:/Projects/rust-experiments/7.temperature_converter_from_fahrenheit_to_celsius/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsD:/Projects/rust-experiments/guessing_game/src/main.rs" value="true" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.Rust" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\rust-experiments\9.owership" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\rust-experiments" />
     </key>
   </component>
-  <component name="RunManager" selected="Cargo.Run fibonacci_number_generator">
-    <configuration name="Run fibonacci_number_generator" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package fibonacci_number_generator --bin fibonacci_number_generator" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/8.fibonacci_number_generator" />
+  <component name="RunManager" selected="Cargo.Run owership">
+    <configuration name="Run owership" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package owership --bin owership" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/9.owership" />
       <option name="channel" value="DEFAULT" />
       <option name="allFeatures" value="false" />
       <option name="emulateTerminal" value="false" />
@@ -102,7 +73,7 @@
     </configuration>
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
       <option name="command" value="run" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/branches" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/9.owership" />
       <option name="channel" value="DEFAULT" />
       <option name="allFeatures" value="false" />
       <option name="emulateTerminal" value="false" />
@@ -130,11 +101,11 @@
     </configuration>
     <list>
       <item itemvalue="Cargo.Run" />
-      <item itemvalue="Cargo.Run fibonacci_number_generator" />
+      <item itemvalue="Cargo.Run owership" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo.Run fibonacci_number_generator" />
+        <item itemvalue="Cargo.Run owership" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +135,16 @@
       <workItem from="1609133911748" duration="64000" />
       <workItem from="1609133989923" duration="45000" />
       <workItem from="1609703939096" duration="1354000" />
-      <workItem from="1609746473407" duration="5779000" />
+      <workItem from="1609746473407" duration="6655000" />
+      <workItem from="1610741211074" duration="711000" />
+      <workItem from="1610744686138" duration="694000" />
+      <workItem from="1610752264221" duration="6000" />
+      <workItem from="1611260882591" duration="1836000" />
+      <workItem from="1611317243071" duration="1799000" />
+      <workItem from="1611357970561" duration="1206000" />
+      <workItem from="1611407377721" duration="740000" />
+      <workItem from="1611491711285" duration="4845000" />
+      <workItem from="1611520803765" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1608859146173</created>
@@ -215,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609751297146</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactoring">
+      <created>1609753576445</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609753576445</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fibonacci number generator">
+      <created>1609753592804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609753592804</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +236,8 @@
     <MESSAGE value="done functions" />
     <MESSAGE value="loop and conditions if" />
     <MESSAGE value="Temperature converter from Fahrenheit to Celsius." />
-    <option name="LAST_COMMIT_MESSAGE" value="Temperature converter from Fahrenheit to Celsius." />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="fibonacci number generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci number generator" />
   </component>
 </project>
