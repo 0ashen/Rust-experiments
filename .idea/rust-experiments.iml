@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8.fibonacci_number_generator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9.owership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15.generics/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
@@ -19,6 +20,7 @@
       <excludeFolder url="file://$MODULE_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/target" />
       <excludeFolder url="file://$MODULE_DIR$/8.fibonacci_number_generator/target" />
       <excludeFolder url="file://$MODULE_DIR$/9.owership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/15.generics/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
