@@ -9,7 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/7.temperature_converter_from_fahrenheit_to_celsius/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8.fibonacci_number_generator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9.owership/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kata/multiples_of_3_or_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kata/leetcode/r1_two_sum/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
@@ -21,7 +23,9 @@
       <excludeFolder url="file://$MODULE_DIR$/8.fibonacci_number_generator/target" />
       <excludeFolder url="file://$MODULE_DIR$/9.owership/target" />
       <excludeFolder url="file://$MODULE_DIR$/15.generics/target" />
-      <excludeFolder url="file://$MODULE_DIR$/test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Kata/multiples_of_3_or_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/11.enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Kata/leetcode/r1_two_sum/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
